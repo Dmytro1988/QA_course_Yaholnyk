@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+    background-color: #a6d5f4;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+H1 {  color: #23f5a1; 
+    font-size: 400%; 
+    background-color: #b91515; 
+    font-family: Arial, Verdana, sans-serif;  
+    text-align: center;
+}
+
+
+a {
+    text-decoration: none;
+    margin: 0 15px;
+    color: #9708f7;
+    font-weight: bold;
+}
+
+
+
+/*контакти*/
+
+h2 {
+    text-decoration: none;
+    margin: 0 15px;
+    color: #19e50e;
+    font-weight: bold;
+}
+
+/*галерея*/
+h3 {
+    margin: 10px;
+    border: 5px solid #ad1010;
+    border-radius: 15px;
+    color: #2009ec;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ 
